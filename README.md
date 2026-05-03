@@ -2,11 +2,10 @@
 
 This repository contains cybersecurity and IT support incident reports completed through XP Cyber Range simulations.
 
-Each PDF represents a structured incident scenario involving:
+Each report represents a real-world style scenario involving:
 - System troubleshooting
-- Security and operational analysis
-- Incident resolution
-- IT support workflows
+- Security incident analysis
+- Endpoint support resolution
+- Network and authentication issue investigation
 
-## 📁 Reports
-- Incident 01 – Helpdesk Workstation Issues (PDF)
+The goal of this repository is to demonstrate SOC analyst and IT support problem-solving skills through structured incident documentation.
