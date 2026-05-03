@@ -1,10 +1,12 @@
-# Cybersecurity Projects (NICE Portal)
+## XP Cyber Range Incident Analysis Portfolio
 
-This repository showcases cybersecurity projects completed through the NICE portal. These projects demonstrate hands-on experience with:
+This repository contains cybersecurity and IT support incident reports completed through XP Cyber Range simulations.
 
-- Threat detection and prevention
-- Domain and account security
-- Identifying system and workstation vulnerabilities
-- Security best practices in real-world scenarios
+Each PDF represents a structured incident scenario involving:
+- System troubleshooting
+- Security and operational analysis
+- Incident resolution
+- IT support workflows
 
-Each document highlights practical analysis and security-focused thinking applied to common IT and cybersecurity challenges.
+## 📁 Reports
+- Incident 01 – Helpdesk Workstation Issues (PDF)
